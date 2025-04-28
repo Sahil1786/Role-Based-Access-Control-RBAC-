@@ -45,7 +45,7 @@ JWT_SECRET=your_jwt_secret_key
 1. Clone the repository:
 
 \`\`\`bash
-[git clone https://github.com/yourusername/rbac-blog.git](https://github.com/Sahil1786/Role-Based-Access-Control-RBAC-)
+(https://github.com/Sahil1786/Role-Based-Access-Control-RBAC-)
 cd rbac-blog
 \`\`\`
 
